@@ -1,0 +1,13 @@
+h1{
+    background: red;
+    color: white;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
